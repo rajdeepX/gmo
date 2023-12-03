@@ -7,8 +7,14 @@ const App: React.FC = () => {
   return (
     <>
       <Routes>
-        <Route path="/" element={<LoginPage />} />
-        <Route path="/second-page" element={<SecondPage />} />
+        <Route
+          path="https://give-me-organic-assignment.netlify.app/"
+          element={<LoginPage />}
+        />
+        <Route
+          path="https://give-me-organic-assignment.netlify.app//second-page"
+          element={<SecondPage />}
+        />
       </Routes>
     </>
   );
