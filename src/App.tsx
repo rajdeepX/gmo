@@ -12,7 +12,7 @@ const App: React.FC = () => {
           element={<LoginPage />}
         />
         <Route
-          path="https://give-me-organic-assignment.netlify.app//second-page"
+          path="https://give-me-organic-assignment.netlify.app/second-page"
           element={<SecondPage />}
         />
       </Routes>
