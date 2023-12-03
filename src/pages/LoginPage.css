@@ -1,0 +1,11 @@
+.login-page__main {
+  max-width: 576px;
+  margin: 30px auto;
+}
+
+.login-page__main h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,17 @@
+.checkbox-main {
+  max-width: 356px;
+  margin: 30px auto;
+  position: relative;
+}
+
+.checkbox-main label {
+  color: #333;
+}
+
+.arrow-icon {
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  right: 130px;
+  top: 8px;
+}

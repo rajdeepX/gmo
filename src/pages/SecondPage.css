@@ -1,0 +1,8 @@
+.data-container__main {
+  margin: 30px;
+}
+
+.data-container__btn-container {
+  display: flex;
+  justify-content: flex-end;
+}
