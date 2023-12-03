@@ -10,7 +10,7 @@ const SecondPage: React.FC = () => {
   const user = localStorage.getItem("userData");
 
   if (!user) {
-    window.location.href = "/";
+    window.location.href = "https://give-me-organic-assignment.netlify.app/";
     alert("Please fill the details to access this page");
     return null;
   }
